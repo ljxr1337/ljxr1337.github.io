@@ -1,1 +1,23 @@
+h1 {
+  font-size: 72px;
+  font-family: 'Raleway', sans-serif;
 
+
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+}
+
+h3, h4 {
+  font-family: 'Raleway', sans-serif;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navlink {
+  color: lightsalmon;
+  font-family: 'Antic Slab', serif;
+}
